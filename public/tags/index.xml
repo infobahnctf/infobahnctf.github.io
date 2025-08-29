@@ -1,0 +1,87 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Infobahn</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - Infobahn</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>EDK2</title>
+    <link>http://localhost:1313/tags/edk2/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/edk2/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Kernel</title>
+    <link>http://localhost:1313/tags/kernel/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/kernel/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>KROP</title>
+    <link>http://localhost:1313/tags/krop/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/krop/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Lua</title>
+    <link>http://localhost:1313/tags/lua/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/lua/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Mimalloc</title>
+    <link>http://localhost:1313/tags/mimalloc/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/mimalloc/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>PWN</title>
+    <link>http://localhost:1313/tags/pwn/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/pwn/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Retspill</title>
+    <link>http://localhost:1313/tags/retspill/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/retspill/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Secure Boot</title>
+    <link>http://localhost:1313/tags/secure-boot/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/secure-boot/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Telefork</title>
+    <link>http://localhost:1313/tags/telefork/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/telefork/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>UEFI</title>
+    <link>http://localhost:1313/tags/uefi/</link>
+    <pubDate>Wed, 30 Jul 2025 00:00:00 &#43;0000</pubDate>
+    <author>ADDINPOST</author>
+    <guid>http://localhost:1313/tags/uefi/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
