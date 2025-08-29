@@ -79,7 +79,7 @@ enableRobotsTXT = false
   # website title for Open Graph and Twitter Cards
   title = "Infobahn"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "infoabhn"
+  description = "infobahn"
   # website images for Open Graph and Twitter Cards
   images = []
 
