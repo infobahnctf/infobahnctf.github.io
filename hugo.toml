@@ -67,6 +67,22 @@ enableRobotsTXT = false
 
 
 [params]
+  # site default theme ["auto", "light", "dark"]
+  defaultTheme = "auto"
+  # public git repo url only then enableGitInfo is true
+  gitRepo = ""
+  # which hash function used for SRI, when empty, no SRI is used
+  # ["sha256", "sha384", "sha512", "md5"]
+  fingerprint = ""
+  # date format
+  dateFormat = "2006-01-02"
+  # website title for Open Graph and Twitter Cards
+  title = "Infobahn"
+  # website description for RSS, SEO, Open Graph and Twitter Cards
+  description = "infoabhn"
+  # website images for Open Graph and Twitter Cards
+  images = []
+  
   [params.author]
     name = "ADDINPOST"
     email = ""
