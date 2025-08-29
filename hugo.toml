@@ -59,4 +59,8 @@ enableRobotsTXT = false
   [markup.tableOfContents]
     startLevel = 1
     endLevel = 6
-    ordered = true
+    ordered = false
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
